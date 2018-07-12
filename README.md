@@ -1,8 +1,4 @@
-# keras-playground
-some small project using keras
+## keras deep learning project
 
-## System Configuration
-Win10 + Python 3.5 + keras
-
-## Content
-### 1. Apply transfer learning using keras
+#### 1. transfer learning 
+#### 2. use pretrained yolo model to track
